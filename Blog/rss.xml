@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>About my blog</title>
+    <link>http://picelboi.cf/Site/Blog/Blog.html</link>
+    <description>Maecenas aliquam maecenas ligula nostra, accumsan taciti. Sociis mauris in integer, a dolor netus non dui aliquet sagittis felis sodales.</description>
+    <generator>iWeb 2.0.3</generator>
+    <image>
+      <url>http://picelboi.cf/Site/Blog/Blog_files/42-15358263a.jpg</url>
+      <title>About my blog</title>
+      <link>http://picelboi.cf/Site/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Kirby</title>
+      <link>http://picelboi.cf/Site/Blog/Entries/2022/9/26_Kirby.html</link>
+      <guid isPermaLink="false">c25d05a7-6968-4aeb-ab39-0a860aa9a76a</guid>
+      <pubDate>Mon, 26 Sep 2022 18:41:54 -0400</pubDate>
+      <description>&lt;a href=&quot;http://picelboi.cf/Site/Blog/Entries/2022/9/26_Kirby_files/editver2.png&quot;&gt;&lt;img src=&quot;http://picelboi.cf/Site/Blog/Media/editver2.png&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:207px; height:116px;&quot;/&gt;&lt;/a&gt;hoshi no kaabii</description>
+      <enclosure url="http://picelboi.cf/Site/Blog/Entries/2022/9/26_Kirby_files/editver2.png" length="360931" type="image/png"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="972EFFF3-EC9F-4E8B-A7CE-DFE7F57253FF">
+  <lastEdited clientType="local-build-20220926" date="2022-09-26 18:47:48 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>My Blog</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>hoshi no kaabii</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="26_Kirby_files/shapeimage_1.png" left="0px" top="0px" width="497px" height="373px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, September 26, 2022&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Kirby</richText>
+  </textBox>
+</content>

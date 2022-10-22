@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>http://picelboi.cf/PicelBois_Site/Blog/Blog.html</link>
+    <description>Welcome to my blog! I try to post interesting stuff here, but since school is uninteresting, don’t expect  &lt;br/&gt;too much content here.</description>
+    <generator>iWeb 3.0</generator>
+    <image>
+      <url>http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby_files/Mac%20OS%20Background.jpg</url>
+      <title>My Blog</title>
+      <link>http://picelboi.cf/PicelBois_Site/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Site almost finished!</title>
+      <link>http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/10/8_Site_almost_finished%21.html</link>
+      <guid isPermaLink="false">fc963baf-0916-4858-8dd9-e303aa6d0702</guid>
+      <pubDate>Sat, 8 Oct 2022 20:01:00 -0400</pubDate>
+      <description>&lt;a href=&quot;http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/10/8_Site_almost_finished%21_files/happy.jpg&quot;&gt;&lt;img src=&quot;http://picelboi.cf/PicelBois_Site/Blog/Media/object020_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:135px;&quot;/&gt;&lt;/a&gt;Again, this is a very bland site,but it might not be so bland soon  :)</description>
+      <enclosure url="http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/10/8_Site_almost_finished%21_files/happy.jpg" length="53682" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kirby</title>
+      <link>http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby.html</link>
+      <guid isPermaLink="false">c25d05a7-6968-4aeb-ab39-0a860aa9a76a</guid>
+      <pubDate>Mon, 26 Sep 2022 18:41:54 -0400</pubDate>
+      <description>&lt;a href=&quot;http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby_files/Mac%20OS%20Background.jpg&quot;&gt;&lt;img src=&quot;http://picelboi.cf/PicelBois_Site/Blog/Media/object017_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:254px; height:135px;&quot;/&gt;&lt;/a&gt;hoshi no kaabii</description>
+      <enclosure url="http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby_files/Mac%20OS%20Background.jpg" length="19994" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

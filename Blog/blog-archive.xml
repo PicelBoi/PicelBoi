@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://picelboi.cf/Site/Blog</link>
+    <description>Maecenas aliquam maecenas ligula nostra, accumsan taciti. Sociis mauris in integer, a dolor netus non dui aliquet sagittis felis sodales.</description>
+    <item>
+      <title>Kirby</title>
+      <link>http://picelboi.cf/Site/Blog/Entries/2022/9/26_Kirby.html</link>
+      <guid isPermaLink="false">c25d05a7-6968-4aeb-ab39-0a860aa9a76a</guid>
+      <pubDate>Mon, 26 Sep 2022 18:41:54 -0400</pubDate>
+      <iweb:comment enabled="0" link="http://picelboi.cf/Site/Blog/Entries/2022/9/26_Kirby.html#comment_layer" count="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://picelboi.cf/Site/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

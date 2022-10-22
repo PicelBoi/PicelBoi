@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://picelboi.cf/PicelBois_Site/Blog</link>
+    <description>Welcome to my blog! I try to post interesting stuff here, but since school is uninteresting, don&#x2019;t expect  
+too much content here.</description>
+    <item>
+      <title>Site almost finished!</title>
+      <link>http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/10/8_Site_almost_finished%21.html</link>
+      <guid isPermaLink="false">fc963baf-0916-4858-8dd9-e303aa6d0702</guid>
+      <pubDate>Sat, 8 Oct 2022 20:01:00 -0400</pubDate>
+      <iweb:comment link="http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/10/8_Site_almost_finished%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Kirby</title>
+      <link>http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby.html</link>
+      <guid isPermaLink="false">c25d05a7-6968-4aeb-ab39-0a860aa9a76a</guid>
+      <pubDate>Mon, 26 Sep 2022 18:41:54 -0400</pubDate>
+      <iweb:comment link="http://picelboi.cf/PicelBois_Site/Blog/Entries/2022/9/26_Kirby.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>http://picelboi.cf/PicelBois_Site/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

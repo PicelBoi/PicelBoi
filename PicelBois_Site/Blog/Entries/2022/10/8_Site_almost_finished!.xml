@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="972EFFF3-EC9F-4E8B-A7CE-DFE7F57253FF">
+  <lastEdited clientType="local-build-20221008" date="2022-10-08 21:01:21 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Hello world!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Site_almost_finished%21_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Again, this is a very bland site,but it might not be so bland soon  :)</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Site almost finished!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;10/8/22&lt;/b&gt;</richText>
+  </textBox>
+</content>
