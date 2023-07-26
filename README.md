@@ -1,1 +1,1 @@
-Dude who has coders/writers block rarely.
+Dude who has coders/writers block rarely. Also contemplates every also often about my life, and how "horrible" it can turn out.
