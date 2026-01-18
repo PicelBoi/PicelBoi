@@ -17,7 +17,8 @@ Hello, my name is PicelBoi. I'm 16 years okd and I work on multiple projects and
 To learn more, check out my website, https://picelboi.xyz.
 
 ## Hackatime
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Blog posts
 {{range rss "https://picelboi.xyz/blog/rss.xml" 5}}
