@@ -20,13 +20,6 @@ To learn more, check out my website, https://picelboi.xyz.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Blog posts
-{{range rss "https://picelboi.xyz/blog/rss.xml" 5}}
-Title: {{.Title}}
-URL: {{.URL}}
-Published: {{humanize .PublishedAt}}
-{{end}}
-
 ## Releases
 {{range recentReleases 10}}
 Name: {{.Name}}
