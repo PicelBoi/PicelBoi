@@ -20,11 +20,13 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
+        continue-on-error: true
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_API_URL: ${{ secrets.WAKATIME_URL }}
           GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        continue-on-error: true
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
