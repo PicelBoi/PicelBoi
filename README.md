@@ -116,28 +116,28 @@ To learn more, check out my website, https://picelboi.xyz.
   **NameWithOwner**: PicelBoi/pvr-model-extractor  
   **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
   **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
-  **Stars*: 2  
+  **Stars**: 2  
   
 - **Name**: tlifequiz  
   **NameWithOwner**: PicelBoi/tlifequiz  
   **Description**: A repatched version of the Tomodachi Life personality quiz.  
   **URL**: https://github.com/PicelBoi/tlifequiz)  
-  **Stars*: 1  
+  **Stars**: 1  
   
 - **Name**: Weirderscan  
   **NameWithOwner**: PicelBoi/Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/PicelBoi/Weirderscan)  
-  **Stars*: 1  
+  **Stars**: 1  
   
 - **Name**: basically-qconrad-intellistar-but-worse  
   **NameWithOwner**: PicelBoi/basically-qconrad-intellistar-but-worse  
   **Description**: doesn't say a fork but at the same time a fork fork. this is why I don't know github  
   **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
-  **Stars*: 1  
+  **Stars**: 1  
   
 - **Name**: i2-DataViewDescriptor-Patch  
   **NameWithOwner**: PicelBoi/i2-DataViewDescriptor-Patch  
   **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
   **URL**: https://github.com/PicelBoi/i2-DataViewDescriptor-Patch)  
-  **Stars*: 0  
+  **Stars**: 0  
