@@ -54,5 +54,5 @@ To learn more, check out my website, https://picelboi.xyz.
   **NameWithOwner**: {{.NameWithOwner}}  
   **Description**: {{.Description}}  
   **URL**: {{.URL}})  
-  **Stars*: {{.Stargazers}}  
+  **Stars**: {{.Stargazers}}  
 {{end}}
