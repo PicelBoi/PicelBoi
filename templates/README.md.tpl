@@ -18,3 +18,46 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Hackatime
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+## Blog posts
+{{range rss "https://picelboi.xyz/blog/rss.xml" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
+
+## Releases
+{{range recentReleases 10}}
+Name: {{.Name}}
+Git Tag: {{.LastRelease.TagName}}
+URL: {{.LastRelease.URL}}
+Published: {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
+## Pull Requests
+{{range recentPullRequests 10}}
+Title: {{.Title}}
+URL: {{.URL}}
+State: {{.State}}
+CreatedAt: {{humanize .CreatedAt}}
+Repository name: {{.Repo.Name}}
+Repository description: {{.Repo.Description}}
+Repository URL: {{.Repo.URL}}
+{{end}}
+
+## Contributions
+{{range recentContributions 10}}
+Name: {{.Repo.Name}}
+Description: {{.Repo.Description}}
+URL: {{.Repo.URL}})
+Occurred: {{humanize .OccurredAt}}
+{{end}}
+
+## Most stars
+{{range popularRepos "charmbracelet" 10}}
+Name: {{.Name}}
+NameWithOwner: {{.NameWithOwner}}
+Description: {{.Description}}
+URL: {{.URL}})
+Stars: {{.Stargazers}}
+{{end}}
