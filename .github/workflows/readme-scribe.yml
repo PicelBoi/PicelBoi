@@ -37,3 +37,5 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+          # Value already defaults to true, but `persist-credentials` is required to push new commits to the repository.
+          persist-credentials: true
