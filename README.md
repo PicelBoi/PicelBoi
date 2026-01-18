@@ -84,6 +84,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: how-not-2-cook  
+  **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
+  **URL**: https://github.com/PicelBoi/how-not-2-cook)  
+  **Occurred**: today  
+  
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
@@ -103,11 +108,6 @@ To learn more, check out my website, https://picelboi.xyz.
   **Description**: This is a site that does this ig  
   **URL**: https://github.com/PicelBoi/iskaerutomoup)  
   **Occurred**: 4 months ago  
-  
-- **Name**: tlifequiz  
-  **Description**: A repatched version of the Tomodachi Life personality quiz.  
-  **URL**: https://github.com/PicelBoi/tlifequiz)  
-  **Occurred**: 5 months ago  
 
 
 ## Most stars
@@ -136,8 +136,8 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
   **Stars**: 1  
   
-- **Name**: i2-DataViewDescriptor-Patch  
-  **NameWithOwner**: PicelBoi/i2-DataViewDescriptor-Patch  
-  **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
-  **URL**: https://github.com/PicelBoi/i2-DataViewDescriptor-Patch)  
+- **Name**: how-not-2-cook  
+  **NameWithOwner**: PicelBoi/how-not-2-cook  
+  **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
+  **URL**: https://github.com/PicelBoi/how-not-2-cook)  
   **Stars**: 0  
