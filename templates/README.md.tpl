@@ -21,37 +21,37 @@ To learn more, check out my website, https://picelboi.xyz.
 <!--END_SECTION:waka-->
 
 ## Releases
-{{range recentReleases 10}}
-Name: {{.Name}}
-Git Tag: {{.LastRelease.TagName}}
-URL: {{.LastRelease.URL}}
-Published: {{humanize .LastRelease.PublishedAt}}
+{{range recentReleases 5}}
+**Name**: {{.Name}}  
+**Git Tag**: {{.LastRelease.TagName}}  
+**URL**: {{.LastRelease.URL}}  
+**Published**: {{humanize .LastRelease.PublishedAt}}  
 {{end}}
 
 ## Pull Requests
-{{range recentPullRequests 10}}
-Title: {{.Title}}
-URL: {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
-Repository URL: {{.Repo.URL}}
+{{range recentPullRequests 5}}
+**Title**: {{.Title}}  
+**URL**: {{.URL}}  
+**State**: {{.State}}  
+**CreatedAt**: {{humanize .CreatedAt}}  
+**Repository name**: {{.Repo.Name}}  
+**Repository description**: {{.Repo.Description}}  
+**Repository URL**: {{.Repo.URL}}  
 {{end}}
 
 ## Contributions
-{{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+{{range recentContributions 5}}  
+**Name**: {{.Repo.Name}}  
+**Description**: {{.Repo.Description}}  
+**URL**: {{.Repo.URL}})  
+**Occurred**: {{humanize .OccurredAt}}  
 {{end}}
 
 ## Most stars
-{{range popularRepos "charmbracelet" 10}}
-Name: {{.Name}}
-NameWithOwner: {{.NameWithOwner}}
-Description: {{.Description}}
-URL: {{.URL}})
-Stars: {{.Stargazers}}
+{{range popularRepos "PicelBoi" 5}}  
+**Name**: {{.Name}}  
+**NameWithOwner**: {{.NameWithOwner}}  
+**Description**: {{.Description}}  
+**URL**: {{.URL}})  
+**Stars*: {{.Stargazers}}  
 {{end}}
