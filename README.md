@@ -44,7 +44,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: LFRecord generation.  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
-  **CreatedAt**: today  
+  **CreatedAt**: 1 day ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -52,7 +52,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Ti record  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/16  
   **State**: MERGED  
-  **CreatedAt**: 5 days ago  
+  **CreatedAt**: 6 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -87,12 +87,12 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: how-not-2-cook  
   **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
   **URL**: https://github.com/PicelBoi/how-not-2-cook)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: i2-DataViewDescriptor-Patch  
   **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
