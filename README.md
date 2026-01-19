@@ -41,6 +41,14 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Pull Requests
 
+- **Title**: Severe wx qualifiers  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
+  **State**: MERGED  
+  **CreatedAt**: today  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
 - **Title**: Radar  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/19  
   **State**: MERGED  
@@ -69,14 +77,6 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/15  
   **State**: MERGED  
   **CreatedAt**: 1 week ago  
-  **Repository name**: i2ME  
-  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
-  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
-
-- **Title**: New changes made in v1.3  
-  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/14  
-  **State**: MERGED  
-  **CreatedAt**: 2 weeks ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
