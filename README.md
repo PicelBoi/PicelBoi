@@ -41,10 +41,18 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Pull Requests
 
+- **Title**: Code cleanup  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/21  
+  **State**: MERGED  
+  **CreatedAt**: 1 day ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
 - **Title**: Severe wx qualifiers  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
   **State**: MERGED  
-  **CreatedAt**: today  
+  **CreatedAt**: 1 day ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -52,7 +60,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Radar  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/19  
   **State**: MERGED  
-  **CreatedAt**: today  
+  **CreatedAt**: 1 day ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -60,21 +68,13 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: LFRecord generation.  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
-  **CreatedAt**: 1 day ago  
+  **CreatedAt**: 2 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
 
 - **Title**: Ti record  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/16  
-  **State**: MERGED  
-  **CreatedAt**: 6 days ago  
-  **Repository name**: i2ME  
-  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
-  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
-
-- **Title**: Config update 1.4  
-  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/15  
   **State**: MERGED  
   **CreatedAt**: 1 week ago  
   **Repository name**: i2ME  
@@ -87,12 +87,12 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: how-not-2-cook  
   **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
   **URL**: https://github.com/PicelBoi/how-not-2-cook)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: i2-DataViewDescriptor-Patch  
   **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
@@ -102,7 +102,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: PicelAPI  
   **Description**: An API. Made for my Astro.js powered website, but can really work on anything.  
   **URL**: https://github.com/PicelBoi/PicelAPI)  
-  **Occurred**: 4 weeks ago  
+  **Occurred**: 1 month ago  
   
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
