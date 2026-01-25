@@ -24,9 +24,9 @@ To learn more, check out my website, https://picelboi.xyz.
 ## Releases
 
 - **Name**: i2ME  
-  **Git Tag**: V1.3.1  
-  **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/V1.3.1  
-  **Published**: 2 weeks ago  
+  **Git Tag**: v1.4RC1  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
+  **Published**: today  
 
 - **Name**: Widerscan  
   **Git Tag**: v1  
@@ -44,7 +44,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Airport delays  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
   **State**: MERGED  
-  **CreatedAt**: 4 days ago  
+  **CreatedAt**: 5 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -52,7 +52,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Code cleanup  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/21  
   **State**: MERGED  
-  **CreatedAt**: 5 days ago  
+  **CreatedAt**: 6 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -60,7 +60,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Severe wx qualifiers  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
   **State**: MERGED  
-  **CreatedAt**: 5 days ago  
+  **CreatedAt**: 6 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -68,7 +68,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Radar  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/19  
   **State**: MERGED  
-  **CreatedAt**: 5 days ago  
+  **CreatedAt**: 6 days ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -76,7 +76,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: LFRecord generation.  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
-  **CreatedAt**: 6 days ago  
+  **CreatedAt**: 1 week ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -87,12 +87,12 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: how-not-2-cook  
   **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
   **URL**: https://github.com/PicelBoi/how-not-2-cook)  
-  **Occurred**: 3 days ago  
+  **Occurred**: 4 days ago  
   
 - **Name**: i2-DataViewDescriptor-Patch  
   **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
