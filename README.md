@@ -136,8 +136,8 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
   **Stars**: 1  
   
-- **Name**: how-not-2-cook  
-  **NameWithOwner**: PicelBoi/how-not-2-cook  
-  **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
-  **URL**: https://github.com/PicelBoi/how-not-2-cook)  
+- **Name**: starscheduler  
+  **NameWithOwner**: PicelBoi/starscheduler  
+  **Description**: A Python program to generate and schedule IntelliStar 1/2 presentations with emphasis on maximum control.  
+  **URL**: https://github.com/PicelBoi/starscheduler)  
   **Stars**: 0  
