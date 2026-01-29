@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 3 days ago  
+  **Published**: 4 days ago  
 
 - **Name**: Widerscan  
   **Git Tag**: v1  
@@ -87,7 +87,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: how-not-2-cook  
   **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
