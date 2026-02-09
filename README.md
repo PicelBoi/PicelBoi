@@ -111,33 +111,3 @@ To learn more, check out my website, https://picelboi.xyz.
 
 
 ## Most stars
-  
-- **Name**: pvr-model-extractor  
-  **NameWithOwner**: PicelBoi/pvr-model-extractor  
-  **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
-  **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
-  **Stars**: 2  
-  
-- **Name**: tlifequiz  
-  **NameWithOwner**: PicelBoi/tlifequiz  
-  **Description**: A repatched version of the Tomodachi Life personality quiz.  
-  **URL**: https://github.com/PicelBoi/tlifequiz)  
-  **Stars**: 1  
-  
-- **Name**: Weirderscan  
-  **NameWithOwner**: PicelBoi/Weirderscan  
-  **Description**: A skin for Weatherscan.  
-  **URL**: https://github.com/PicelBoi/Weirderscan)  
-  **Stars**: 1  
-  
-- **Name**: basically-qconrad-intellistar-but-worse  
-  **NameWithOwner**: PicelBoi/basically-qconrad-intellistar-but-worse  
-  **Description**: doesn't say a fork but at the same time a fork fork. this is why I don't know github  
-  **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
-  **Stars**: 1  
-  
-- **Name**: starscheduler  
-  **NameWithOwner**: PicelBoi/starscheduler  
-  **Description**: A Python program to generate and schedule IntelliStar 1/2 presentations with emphasis on maximum control.  
-  **URL**: https://github.com/PicelBoi/starscheduler)  
-  **Stars**: 0  
