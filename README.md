@@ -84,6 +84,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: Minato  
+  **Description**:   
+  **URL**: https://github.com/PicelBoi/Minato)  
+  **Occurred**: 1 day ago  
+  
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
@@ -103,11 +108,6 @@ To learn more, check out my website, https://picelboi.xyz.
   **Description**: An API. Made for my Astro.js powered website, but can really work on anything.  
   **URL**: https://github.com/PicelBoi/PicelAPI)  
   **Occurred**: 1 month ago  
-  
-- **Name**: iskaerutomoup  
-  **Description**: This is a site that does this ig  
-  **URL**: https://github.com/PicelBoi/iskaerutomoup)  
-  **Occurred**: 4 months ago  
 
 
 ## Most stars
@@ -136,8 +136,8 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
   **Stars**: 1  
   
-- **Name**: starscheduler  
-  **NameWithOwner**: PicelBoi/starscheduler  
-  **Description**: A Python program to generate and schedule IntelliStar 1/2 presentations with emphasis on maximum control.  
-  **URL**: https://github.com/PicelBoi/starscheduler)  
+- **Name**: Minato  
+  **NameWithOwner**: PicelBoi/Minato  
+  **Description**:   
+  **URL**: https://github.com/PicelBoi/Minato)  
   **Stars**: 0  
