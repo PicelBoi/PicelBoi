@@ -84,14 +84,14 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
-- **Name**: i2ME  
-  **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
-  **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: 1 day ago  
-  
 - **Name**: Minato  
   **Description**:   
   **URL**: https://github.com/PicelBoi/Minato)  
+  **Occurred**: today  
+  
+- **Name**: i2ME  
+  **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **URL**: https://github.com/MistWeatherMedia/i2ME)  
   **Occurred**: 1 day ago  
   
 - **Name**: how-not-2-cook  
