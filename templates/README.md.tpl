@@ -1,5 +1,5 @@
 # Hello, world!
-Hello, my name is PicelBoi. I'm 16 years okd and I work on multiple projects and such.
+Hello, my name is PicelBoi. I'm 16 years old and I work on multiple projects and such.
 
 ## Known programming languages 
 (Ranked in terms of how well I know then)
