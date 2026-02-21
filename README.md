@@ -87,12 +87,12 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Minato  
   **Description**:   
   **URL**: https://github.com/PicelBoi/Minato)  
-  **Occurred**: 5 days ago  
+  **Occurred**: 6 days ago  
   
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: how-not-2-cook  
   **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
