@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 3 weeks ago  
+  **Published**: 4 weeks ago  
 
 - **Name**: Widerscan  
   **Git Tag**: v1  
@@ -87,7 +87,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Minato  
   **Description**:   
   **URL**: https://github.com/PicelBoi/Minato)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
