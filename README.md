@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 4 weeks ago  
+  **Published**: 1 month ago  
 
 - **Name**: Widerscan  
   **Git Tag**: v1  
