@@ -22,3 +22,123 @@ To learn more, check out my website, https://picelboi.xyz.
 <!--END_SECTION:waka-->
 
 ## Releases
+
+- **Name**: i2ME  
+  **Git Tag**: v1.4RC1  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
+  **Published**: 1 month ago  
+
+- **Name**: Widerscan  
+  **Git Tag**: v1  
+  **URL**: https://github.com/PicelBoi/Widerscan/releases/tag/v1  
+  **Published**: 2 years ago  
+
+- **Name**: Weirderscan  
+  **Git Tag**: v1.2.1  
+  **URL**: https://github.com/PicelBoi/Weirderscan/releases/tag/v1.2.1  
+  **Published**: 2 years ago  
+
+
+## Pull Requests
+
+- **Title**: Airport delays  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
+  **State**: MERGED  
+  **CreatedAt**: 1 month ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
+- **Title**: Code cleanup  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/21  
+  **State**: MERGED  
+  **CreatedAt**: 1 month ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
+- **Title**: Severe wx qualifiers  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
+  **State**: MERGED  
+  **CreatedAt**: 1 month ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
+- **Title**: Radar  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/19  
+  **State**: MERGED  
+  **CreatedAt**: 1 month ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
+- **Title**: LFRecord generation.  
+  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
+  **State**: MERGED  
+  **CreatedAt**: 1 month ago  
+  **Repository name**: i2ME  
+  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
+
+
+## Contributions
+  
+- **Name**: YouSHOULDMakeASite  
+  **Description**: You SHOULD make a website. Yes, YOU.  
+  **URL**: https://github.com/PicelBoi/YouSHOULDMakeASite)  
+  **Occurred**: 2 days ago  
+  
+- **Name**: Minato  
+  **Description**:   
+  **URL**: https://github.com/PicelBoi/Minato)  
+  **Occurred**: 1 week ago  
+  
+- **Name**: i2ME  
+  **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
+  **URL**: https://github.com/MistWeatherMedia/i2ME)  
+  **Occurred**: 1 week ago  
+  
+- **Name**: how-not-2-cook  
+  **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
+  **URL**: https://github.com/PicelBoi/how-not-2-cook)  
+  **Occurred**: 1 month ago  
+  
+- **Name**: i2-DataViewDescriptor-Patch  
+  **Description**: Patches DataViewDescriptors using older data records to use new ones based on the IBM TWC api.  
+  **URL**: https://github.com/PicelBoi/i2-DataViewDescriptor-Patch)  
+  **Occurred**: 1 month ago  
+
+
+## Most stars
+  
+- **Name**: pvr-model-extractor  
+  **NameWithOwner**: PicelBoi/pvr-model-extractor  
+  **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
+  **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
+  **Stars**: 2  
+  
+- **Name**: tlifequiz  
+  **NameWithOwner**: PicelBoi/tlifequiz  
+  **Description**: A repatched version of the Tomodachi Life personality quiz.  
+  **URL**: https://github.com/PicelBoi/tlifequiz)  
+  **Stars**: 1  
+  
+- **Name**: Weirderscan  
+  **NameWithOwner**: PicelBoi/Weirderscan  
+  **Description**: A skin for Weatherscan.  
+  **URL**: https://github.com/PicelBoi/Weirderscan)  
+  **Stars**: 1  
+  
+- **Name**: basically-qconrad-intellistar-but-worse  
+  **NameWithOwner**: PicelBoi/basically-qconrad-intellistar-but-worse  
+  **Description**: doesn't say a fork but at the same time a fork fork. this is why I don't know github  
+  **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
+  **Stars**: 1  
+  
+- **Name**: YouSHOULDMakeASite  
+  **NameWithOwner**: PicelBoi/YouSHOULDMakeASite  
+  **Description**: You SHOULD make a website. Yes, YOU.  
+  **URL**: https://github.com/PicelBoi/YouSHOULDMakeASite)  
+  **Stars**: 0  
+
