@@ -76,7 +76,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: LFRecord generation.  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
-  **CreatedAt**: 1 month ago  
+  **CreatedAt**: 2 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
