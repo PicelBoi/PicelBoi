@@ -87,7 +87,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Encode2It  
   **Description**:   
   **URL**: https://github.com/PicelBoi/Encode2It)  
-  **Occurred**: 1 day ago  
+  **Occurred**: today  
   
 - **Name**: YouSHOULDMakeASite  
   **Description**: You SHOULD make a website. Yes, YOU.  
