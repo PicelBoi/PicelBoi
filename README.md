@@ -23,6 +23,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Releases
 
+- **Name**: Encode2It  
+  **Git Tag**: v1.0.0  
+  **URL**: https://github.com/PicelBoi/Encode2It/releases/tag/v1.0.0  
+  **Published**: today  
+
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
@@ -84,8 +89,13 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: Encode2It-Legacy  
+  **Description**: An encoder for the Zap2It cable guide.   
+  **URL**: https://github.com/PicelBoi/Encode2It-Legacy)  
+  **Occurred**: 1 day ago  
+  
 - **Name**: Encode2It  
-  **Description**:   
+  **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/PicelBoi/Encode2It)  
   **Occurred**: 1 day ago  
   
@@ -103,11 +113,6 @@ To learn more, check out my website, https://picelboi.xyz.
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **URL**: https://github.com/MistWeatherMedia/i2ME)  
   **Occurred**: 1 month ago  
-  
-- **Name**: how-not-2-cook  
-  **Description**: A game about cooking to make ends meet. Made for Campfire Flagship, a Hack Club game jam.  
-  **URL**: https://github.com/PicelBoi/how-not-2-cook)  
-  **Occurred**: 2 months ago  
 
 
 ## Most stars
@@ -120,7 +125,7 @@ To learn more, check out my website, https://picelboi.xyz.
   
 - **Name**: Encode2It  
   **NameWithOwner**: PicelBoi/Encode2It  
-  **Description**:   
+  **Description**: An encoder for the Zap2It cable guide.  
   **URL**: https://github.com/PicelBoi/Encode2It)  
   **Stars**: 1  
   
