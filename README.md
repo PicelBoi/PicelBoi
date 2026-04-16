@@ -107,7 +107,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Minato  
   **Description**:   
   **URL**: https://github.com/PicelBoi/Minato)  
-  **Occurred**: 1 month ago  
+  **Occurred**: 2 months ago  
   
 - **Name**: i2ME  
   **Description**: Compact data aggregator & distributor for IntelliStar 2 units.  
