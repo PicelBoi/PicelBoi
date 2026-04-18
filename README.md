@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Encode2It  
   **Git Tag**: v1.0.0  
   **URL**: https://github.com/PicelBoi/Encode2It/releases/tag/v1.0.0  
-  **Published**: 1 week ago  
+  **Published**: 2 weeks ago  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
@@ -81,7 +81,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: LFRecord generation.  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
-  **CreatedAt**: 2 months ago  
+  **CreatedAt**: 3 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
