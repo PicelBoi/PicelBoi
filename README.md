@@ -26,7 +26,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Encode2It  
   **Git Tag**: v1.0.0  
   **URL**: https://github.com/PicelBoi/Encode2It/releases/tag/v1.0.0  
-  **Published**: 3 weeks ago  
+  **Published**: 4 weeks ago  
 
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
