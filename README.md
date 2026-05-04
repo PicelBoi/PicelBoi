@@ -33,16 +33,6 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
   **Published**: 3 months ago  
 
-- **Name**: Widerscan  
-  **Git Tag**: v1  
-  **URL**: https://github.com/PicelBoi/Widerscan/releases/tag/v1  
-  **Published**: 2 years ago  
-
-- **Name**: Weirderscan  
-  **Git Tag**: v1.2.1  
-  **URL**: https://github.com/PicelBoi/Weirderscan/releases/tag/v1.2.1  
-  **Published**: 2 years ago  
-
 
 ## Pull Requests
 
@@ -94,14 +84,14 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/tomotools)  
   **Occurred**: 2 weeks ago  
   
-- **Name**: Encode2It  
-  **Description**: An encoder for the Zap2It cable guide.  
-  **URL**: https://github.com/PicelBoi/Encode2It)  
-  **Occurred**: 1 month ago  
-  
 - **Name**: Encode2It-Legacy  
   **Description**: An encoder for the Zap2It cable guide.   
   **URL**: https://github.com/PicelBoi/Encode2It-Legacy)  
+  **Occurred**: 1 month ago  
+  
+- **Name**: Encode2It  
+  **Description**: An encoder for the Zap2It cable guide.  
+  **URL**: https://github.com/PicelBoi/Encode2It)  
   **Occurred**: 1 month ago  
   
 - **Name**: YouSHOULDMakeASite  
