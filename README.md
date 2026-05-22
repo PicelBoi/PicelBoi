@@ -125,15 +125,15 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/tlifequiz)  
   **Stars**: 1  
   
+- **Name**: Widerscan  
+  **NameWithOwner**: PicelBoi/Widerscan  
+  **Description**: Weatherscan in a 16:9 format. Very lazy edits here.  
+  **URL**: https://github.com/PicelBoi/Widerscan)  
+  **Stars**: 1  
+  
 - **Name**: Weirderscan  
   **NameWithOwner**: PicelBoi/Weirderscan  
   **Description**: A skin for Weatherscan.  
   **URL**: https://github.com/PicelBoi/Weirderscan)  
-  **Stars**: 1  
-  
-- **Name**: basically-qconrad-intellistar-but-worse  
-  **NameWithOwner**: PicelBoi/basically-qconrad-intellistar-but-worse  
-  **Description**: doesn't say a fork but at the same time a fork fork. this is why I don't know github  
-  **URL**: https://github.com/PicelBoi/basically-qconrad-intellistar-but-worse)  
   **Stars**: 1  
 
