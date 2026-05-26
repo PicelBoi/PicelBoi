@@ -36,6 +36,22 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Pull Requests
 
+- **Title**: Workers support  
+  **URL**: https://github.com/PicelBoi/weatherscan-v2/pull/1  
+  **State**: MERGED  
+  **CreatedAt**: today  
+  **Repository name**: weatherscan-v2  
+  **Repository description**: Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS  
+  **Repository URL**: https://github.com/PicelBoi/weatherscan-v2  
+
+- **Title**: Workers support  
+  **URL**: https://github.com/MistWeatherMedia/weatherscan-v2/pull/16  
+  **State**: CLOSED  
+  **CreatedAt**: today  
+  **Repository name**: weatherscan-v2  
+  **Repository description**: Weatherscan v2 (2005-2022) simulation in HTML/JS/CSS  
+  **Repository URL**: https://github.com/MistWeatherMedia/weatherscan-v2  
+
 - **Title**: Airport delays  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
   **State**: MERGED  
@@ -54,22 +70,6 @@ To learn more, check out my website, https://picelboi.xyz.
 
 - **Title**: Severe wx qualifiers  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/20  
-  **State**: MERGED  
-  **CreatedAt**: 4 months ago  
-  **Repository name**: i2ME  
-  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
-  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
-
-- **Title**: Radar  
-  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/19  
-  **State**: MERGED  
-  **CreatedAt**: 4 months ago  
-  **Repository name**: i2ME  
-  **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
-  **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
-
-- **Title**: LFRecord generation.  
-  **URL**: https://github.com/MistWeatherMedia/i2ME/pull/18  
   **State**: MERGED  
   **CreatedAt**: 4 months ago  
   **Repository name**: i2ME  
