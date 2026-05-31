@@ -113,6 +113,12 @@ To learn more, check out my website, https://picelboi.xyz.
   **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
   **Stars**: 2  
   
+- **Name**: Weirderscan  
+  **NameWithOwner**: PicelBoi/Weirderscan  
+  **Description**: A skin for Weatherscan.  
+  **URL**: https://github.com/PicelBoi/Weirderscan)  
+  **Stars**: 2  
+  
 - **Name**: Encode2It  
   **NameWithOwner**: PicelBoi/Encode2It  
   **Description**: An encoder for the Zap2It cable guide.  
@@ -129,11 +135,5 @@ To learn more, check out my website, https://picelboi.xyz.
   **NameWithOwner**: PicelBoi/Widerscan  
   **Description**: Weatherscan in a 16:9 format. Very lazy edits here.  
   **URL**: https://github.com/PicelBoi/Widerscan)  
-  **Stars**: 1  
-  
-- **Name**: Weirderscan  
-  **NameWithOwner**: PicelBoi/Weirderscan  
-  **Description**: A skin for Weatherscan.  
-  **URL**: https://github.com/PicelBoi/Weirderscan)  
   **Stars**: 1  
 
