@@ -82,7 +82,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: WeatherLib  
   **Description**:   
   **URL**: https://github.com/PicelBoi/WeatherLib)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: c00lRadio  
   **Description**:   
