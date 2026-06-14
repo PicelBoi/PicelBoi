@@ -79,6 +79,11 @@ To learn more, check out my website, https://picelboi.xyz.
 
 ## Contributions
   
+- **Name**: android_kernel_kyocera_kyf42  
+  **Description**: KYF42 kernel from Kyocera  
+  **URL**: https://github.com/PicelBoi/android_kernel_kyocera_kyf42)  
+  **Occurred**: today  
+  
 - **Name**: WeatherLib  
   **Description**:   
   **URL**: https://github.com/PicelBoi/WeatherLib)  
@@ -97,11 +102,6 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: Encode2It-Legacy  
   **Description**: An encoder for the Zap2It cable guide.   
   **URL**: https://github.com/PicelBoi/Encode2It-Legacy)  
-  **Occurred**: 2 months ago  
-  
-- **Name**: Encode2It  
-  **Description**: An encoder for the Zap2It cable guide.  
-  **URL**: https://github.com/PicelBoi/Encode2It)  
   **Occurred**: 2 months ago  
 
 
