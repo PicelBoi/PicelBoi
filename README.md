@@ -81,7 +81,7 @@ To learn more, check out my website, https://picelboi.xyz.
   
 - **Name**: android_kernel_kyocera_kyf42  
   **Description**: KYF42 kernel from Kyocera  
-  **URL**: https://github.com/PicelBoi/android_kernel_kyocera_kyf42)  
+  **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_kyf42)  
   **Occurred**: today  
   
 - **Name**: WeatherLib  
