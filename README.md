@@ -31,7 +31,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 4 months ago  
+  **Published**: 5 months ago  
 
 
 ## Pull Requests
@@ -82,7 +82,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
-  **Occurred**: today  
+  **Occurred**: 1 day ago  
   
 - **Name**: local_manifests  
   **Description**:   
