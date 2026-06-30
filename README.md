@@ -82,12 +82,12 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: pyJSOBSL  
   **Description**:   
   **URL**: https://github.com/PicelBoi/pyJSOBSL)  
-  **Occurred**: 1 day ago  
+  **Occurred**: 2 days ago  
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
   **URL**: https://github.com/PicelBoi-Keitai-Works/android_kernel_kyocera_902KC)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: local_manifests  
   **Description**:   
