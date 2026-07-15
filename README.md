@@ -82,7 +82,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: iskaerutomoup  
   **Description**: This is a site that does this ig  
   **URL**: https://github.com/PicelBoi/iskaerutomoup)  
-  **Occurred**: 6 days ago  
+  **Occurred**: 1 week ago  
   
 - **Name**: pyJSOBSL  
   **Description**:   
