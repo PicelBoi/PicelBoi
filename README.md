@@ -111,7 +111,7 @@ To learn more, check out my website, https://picelboi.xyz.
   **NameWithOwner**: PicelBoi/pvr-model-extractor  
   **Description**: Python decompiler for the .pod model format used in some of Nintendo's mobile games  
   **URL**: https://github.com/PicelBoi/pvr-model-extractor)  
-  **Stars**: 2  
+  **Stars**: 3  
   
 - **Name**: Weirderscan  
   **NameWithOwner**: PicelBoi/Weirderscan  
