@@ -55,7 +55,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Title**: Airport delays  
   **URL**: https://github.com/MistWeatherMedia/i2ME/pull/22  
   **State**: MERGED  
-  **CreatedAt**: 5 months ago  
+  **CreatedAt**: 6 months ago  
   **Repository name**: i2ME  
   **Repository description**: Compact data aggregator & distributor for IntelliStar 2 units.  
   **Repository URL**: https://github.com/MistWeatherMedia/i2ME  
@@ -87,7 +87,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: pyJSOBSL  
   **Description**:   
   **URL**: https://github.com/PicelBoi/pyJSOBSL)  
-  **Occurred**: 2 weeks ago  
+  **Occurred**: 3 weeks ago  
   
 - **Name**: android_kernel_kyocera_902KC  
   **Description**: 902KC kernel from Kyocera  
