@@ -31,7 +31,7 @@ To learn more, check out my website, https://picelboi.xyz.
 - **Name**: i2ME  
   **Git Tag**: v1.4RC1  
   **URL**: https://github.com/MistWeatherMedia/i2ME/releases/tag/v1.4RC1  
-  **Published**: 5 months ago  
+  **Published**: 6 months ago  
 
 
 ## Pull Requests
